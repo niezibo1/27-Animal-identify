@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-15.0.2">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JarPackage/commons-collections-3.2.1-1.0.0.jar" sourcepath="D:/JarPackage/commons-collections-3.2.1-1.0.0.jar.src.zip"/>
+	<classpathentry kind="lib" path="D:/JarPackage/commons-lang-2.1.jar" sourcepath="D:/JarPackage/commons-lang-2.1.jar.src.zip"/>
+	<classpathentry kind="lib" path="D:/JarPackage/commons-logging-1.2.1.1.jar" sourcepath="D:/JarPackage/commons-logging-1.2.1.1.jar.src.zip"/>
+	<classpathentry kind="lib" path="D:/JarPackage/ezmorph-1.0.jar" sourcepath="D:/JarPackage/ezmorph-1.0.jar.src.zip"/>
+	<classpathentry kind="lib" path="D:/JarPackage/json-lib-2.4-jdk15.jar" sourcepath="D:/JarPackage/json-lib-2.4-jdk15.jar.src.zip"/>
+	<classpathentry kind="lib" path="D:/JarPackage/servlet-api.jar" sourcepath="D:/JarPackage/servlet-api.jar.src.zip"/>
+	<classpathentry kind="lib" path="D:/JarPackage/commons-beanutils-1.8.3.jar" sourcepath="D:/JarPackage/commons-beanutils-1.8.3.jar.src.zip"/>
+	<classpathentry kind="lib" path="D:/JarPackage/fastjson-2.0.34.jar" sourcepath="D:/JarPackage/fastjson-2.0.34.jar.src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
